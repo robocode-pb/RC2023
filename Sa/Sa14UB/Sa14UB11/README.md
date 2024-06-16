@@ -1,7 +1,7 @@
 # Крутий проект про робокота
 Який бориться з привидами  
 
-[Завантажити для Android]()
+[Завантажити для Android](Sa14UB11CatPlatform.apk)
 
 ![image](https://github.com/robocode-pb/RC2023/assets/172953581/f319ba8e-39fc-4a9d-8f82-1ac3c4fb80bb)
 
@@ -10,3 +10,9 @@
 
 
 ![image](https://github.com/robocode-pb/RC2023/assets/172953581/b57180df-f696-4959-a46a-ba8d2420684c)
+
+
+## Редагування проєкту
+[Інструкція встановлення Unity](https://github.com/robocode-pb/RC2023/blob/main/tutorials/InstallUnity.md)
+
+[Файл цього проєкту](Sa14UB11CatPlatform.unitypackage)
