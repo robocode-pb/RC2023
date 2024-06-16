@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1Y-GQMh5itlp19eruL9IoEnBz_dro_Oit/view?usp=drive
 
 ## Редагування проєкту
 [Інструкція встановлення Unity](
-
+https://drive.google.com/file/d/1CryMBbOOxgdO9dgKWfZJm5fJbdBIkQAF/view?usp=drive_link
 )
 
 [Файл цього проєкту](Sa14UB11CatPlatform.unitypackage)
@@ -27,3 +27,4 @@ https://drive.google.com/file/d/1Y-GQMh5itlp19eruL9IoEnBz_dro_Oit/view?usp=drive
 - [ ] Під час зависання перевіряти напрямок погляду
 - [ ] Оптимізувати спрайт курсору
 - [ ] Додати повідомлення програшу
+- [ ] Відредагувати початкову позицію літаючих платфром, щоб не вилітати за межі рівня
