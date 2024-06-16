@@ -1,7 +1,9 @@
 # Крутий проект про робокота
 Який бориться з привидами  
 
-[Завантажити для Android](https://drive.google.com/file/d/1jWZ_7PVI6AAyH79We3e6DNCesu4syLLx/view?usp=sharing)
+[Завантажити для Android](
+https://drive.google.com/file/d/1Y-GQMh5itlp19eruL9IoEnBz_dro_Oit/view?usp=drive_link
+)
 
 ![image](https://github.com/robocode-pb/RC2023/assets/172953581/f319ba8e-39fc-4a9d-8f82-1ac3c4fb80bb)
 
@@ -13,7 +15,9 @@
 
 
 ## Редагування проєкту
-[Інструкція встановлення Unity](https://github.com/robocode-pb/RC2023/blob/main/tutorials/InstallUnity.md)
+[Інструкція встановлення Unity](
+
+)
 
 [Файл цього проєкту](Sa14UB11CatPlatform.unitypackage)
 
@@ -22,3 +26,4 @@
 - [ ] Розділити Grid
 - [ ] Під час зависання перевіряти напрямок погляду
 - [ ] Оптимізувати спрайт курсору
+- [ ] Додати повідомлення програшу
