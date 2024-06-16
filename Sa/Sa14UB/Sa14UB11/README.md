@@ -1,7 +1,7 @@
 # Крутий проект про робокота
 Який бориться з привидами  
 
-[Завантажити для Android](Sa14UB11CatPlatform.apk)
+[Завантажити для Android](https://drive.google.com/file/d/1jWZ_7PVI6AAyH79We3e6DNCesu4syLLx/view?usp=sharing)
 
 ![image](https://github.com/robocode-pb/RC2023/assets/172953581/f319ba8e-39fc-4a9d-8f82-1ac3c4fb80bb)
 
