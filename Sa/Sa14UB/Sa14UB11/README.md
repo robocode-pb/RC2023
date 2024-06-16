@@ -16,3 +16,9 @@
 [Інструкція встановлення Unity](https://github.com/robocode-pb/RC2023/blob/main/tutorials/InstallUnity.md)
 
 [Файл цього проєкту](Sa14UB11CatPlatform.unitypackage)
+
+
+## TODO:
+- [ ] Розділити Grid
+- [ ] Під час зависання перевіряти напрямок погляду
+- [ ] Оптимізувати спрайт курсору
