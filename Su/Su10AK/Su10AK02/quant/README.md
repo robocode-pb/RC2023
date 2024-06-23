@@ -1,10 +1,10 @@
 # Програмувaння робомашинки Quant + додаток 
-![image](https://github.com/robocode-pb/RC2023/assets/172953581/4883bde5-479e-47ce-9f34-b52cf3112e74)
-
+![image](https://github.com/robocode-pb/RC2023/assets/172953581/75ed7e1b-65b5-46de-9190-8550615dc39e)
 
 
 ## Ardublock
 
+Вивантажте програму на квант за допомогою Arduino IDE Ardublock
 
 ## AppInventor
 
